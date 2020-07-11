@@ -1,2 +1,2 @@
-wget -q -O PPPData.csv https://storage.cloud.google.com/prefect-binder-tutorial/PPP%20Data%20150k%20plus.csv
-wget -q -O PPPDataSmallLoan-PA.csv https://storage.cloud.google.com/prefect-binder-tutorial/PPP%20Data%20up%20to%20150K%20-%20PA.csv
+wget -q -O PPPData.csv https://storage.googleapiscom/prefect-binder-tutorial/PPP%20Data%20150k%20plus.csv
+wget -q -O PPPDataSmallLoan-PA.csv https://storage.googleapis.com/prefect-binder-tutorial/PPP%20Data%20up%20to%20150K%20-%20PA.csv
